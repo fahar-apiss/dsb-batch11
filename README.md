@@ -7,3 +7,9 @@ My data science and analytics project
 2. R
 3. Dashboard
 4. Linear Regression
+
+
+## Contact Me
+fah.apisara@gmail.com
+
+## image
